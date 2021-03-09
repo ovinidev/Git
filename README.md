@@ -2,6 +2,8 @@
 
 ## Como instalar o Kali Linux via VirtualBox 👨🏻‍💻
 
+<img src="https://i.redd.it/g2b39yuijz151.png" alt="" width="800" align=center>
+
 🕵🏻‍♂️ **Passo 1:** Baixando a ISO para importar no Virtual Box e o Virtual Box;
 
 https://www.offensive-security.com/kali-linux-vm-vmware-virtualbox-image-download/
