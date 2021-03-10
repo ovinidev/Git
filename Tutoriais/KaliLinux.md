@@ -1,30 +1,36 @@
 ## Como instalar o Kali Linux via VirtualBox 👨🏻‍💻
+<hr>
 
 🕵🏻‍♂️ **Passo 1:** Baixando a ISO para importar no Virtual Box e o Virtual Box;
 
 https://www.offensive-security.com/kali-linux-vm-vmware-virtualbox-image-download/
 
 https://www.virtualbox.org
+<hr>
 
 🕵🏻‍♂️ **Passo 1.1:** Importar a ISO no virtual box e seguir os passos padrões para instalação;
 
 ⚠️ **OBS:** Marcar a opção "Importar discos rígidos como VDI.
 
+
 🕵🏻‍♂️ **Passo 1.2:** Após iniciar o Kali, entrar com o Login: Kali e Senha: Kali;
 
 🕵🏻‍♂️ **Passo 1.3:** Modificar o Keyboard para PT-BR;
+<hr>
 
 ### Abrindo o terminal:
 
 🕵🏻‍♂️ **Passo 2.0:** Fazer o upgrade de todos os pacotes;
 
-`$ sudo su` para entrar como host;
+`$ sudo su` (para entrar como host);
 
 `root@kali:/home/kali# apt-get upgrade -y && apt-get update -y`
+<hr>
 
 #### ⚠️ **IMPORTANTE:** Acaso houver o seguinte erro: "Unable to fetch some archives,maybe run apt-get update or try with --fix-missing?". Segue o comando:
 
 `$ sudo apt-get update --fix-missing`
+<hr>
 
 🕵🏻‍♂️ **Passo 2.2:** Dar um reboot e alterar data;
 
@@ -40,17 +46,19 @@ https://www.virtualbox.org
 
 🕵🏻‍♂️ **Passo 2.5:** Adicionar um usuário:
 
-`root@kali:/home/kali# adduser Nome`
+`root@kali:/home/kali# adduser Nome` 
 
-Para logar: su nome
+### Para logar: 
+`$ su nome`
 
 🕵🏻‍♂️ **Passo 2.6:** Para colocar o usuário no grupo sudo:
 
 `root@kali:/home/kali# adduser nome sudo`
+<hr>
 
 ## 👨🏻‍🔧 Melhorando a performance do Kali Linux
 
-`$ sudo su`
+`$ sudo su` (entrar como host)
 
 `root@kali:/home/kali# ls /dev/cdrom`
 
@@ -63,3 +71,4 @@ Para logar: su nome
 `root@kali:/home/kali# /mnt/cdrom/VBoxLinuxAdditions.run`
 
 `root@kali:/home/kali# reboot`
+<hr>
