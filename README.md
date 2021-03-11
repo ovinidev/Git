@@ -1,4 +1,4 @@
-# HackingStudies
+# Hacking 👨‍💻🕵️‍♂️
 
 <p align="center">
 <img src="https://i.imgur.com/A0nvBmC.gif" width="650" align=center>
