@@ -1,5 +1,7 @@
 # HackingStudies
 
+ <img src="https://i.imgur.com/A0nvBmC.gif" width="600" align=center>
+
 ## Como instalar o Kali Linux via VirtualBox (Windows 10) 👨🏻‍💻
 
 <a href="https://www.offensive-security.com/kali-linux-vm-vmware-virtualbox-image-download/"> <img src="https://1.bp.blogspot.com/-no-qrgcIIhU/Xd7p_YIr53I/AAAAAAAAZvw/CyvjwmEb0QEfBNIVAdJCdIW3K2Sm7efcgCLcBGAsYHQ/s1600/kali-preview-boot.gif" width="600" align=center> </a>
