@@ -1,8 +1,7 @@
 # HackingStudies
 
- <img src="https://i.imgur.com/A0nvBmC.gif" width="600" align=center>
- 
- <p align="center">
+<p align="center">
+<img src="https://i.imgur.com/A0nvBmC.gif" width="650" align=center>
 
 ## Como instalar o Kali Linux via VirtualBox (Windows 10) 👨🏻‍💻
 
