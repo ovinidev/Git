@@ -72,6 +72,8 @@ Para logar: su nome
 
 `root@kali:/home/kali# reboot`
 
+### `Autor:`
+
 <table>
   <tr>
     <td align="center">
