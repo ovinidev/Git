@@ -71,3 +71,15 @@ Para logar: su nome
 `root@kali:/home/kali# /mnt/cdrom/VBoxLinuxAdditions.run`
 
 `root@kali:/home/kali# reboot`
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/vinimedeiros13">
+        <img src="https://github.com/vinimedeiros13.png" width="100px;" alt="Profile"/><br/>
+        <sub><b>Vinícius Medeiros</b></sub>
+       </a><br/>
+       <a href="https://github.com/vinimedeiros13" title="Code">🕵🏻‍♂️</a>
+      </td>
+  <tr>
+</table>
