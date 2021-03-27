@@ -52,7 +52,7 @@
 #### Escreve o que inserir nas aspas:
 `$ echo "Computador"`
 
-#### : Envia o texto para o arquivo:
+#### Envia o texto para o arquivo:
 `$ echo "Computador" >> (pasta)`
 
 #### Exibe a lista com todos os usuários:
