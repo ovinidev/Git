@@ -1,7 +1,11 @@
-# HackingStudies
+# Hacking 🕵🏻
 
-## Como instalar o Kali Linux via VirtualBox 👨🏻‍💻
+<p align="center">
+<img src="https://i.imgur.com/A0nvBmC.gif" width="650" align=center>
 
+## Como instalar o Kali Linux via VirtualBox (Windows 10) 👨🏻‍💻
+
+<p align="center">
 <a href="https://www.offensive-security.com/kali-linux-vm-vmware-virtualbox-image-download/"> <img src="https://1.bp.blogspot.com/-no-qrgcIIhU/Xd7p_YIr53I/AAAAAAAAZvw/CyvjwmEb0QEfBNIVAdJCdIW3K2Sm7efcgCLcBGAsYHQ/s1600/kali-preview-boot.gif" width="600" align=center> </a>
 
 🕵🏻‍♂️ **Passo 1:** Baixando a ISO para importar no Virtual Box e o Virtual Box;
@@ -67,3 +71,17 @@ Para logar: su nome
 `root@kali:/home/kali# /mnt/cdrom/VBoxLinuxAdditions.run`
 
 `root@kali:/home/kali# reboot`
+
+### `Autor:`
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/vinimedeiros13">
+        <img src="https://github.com/vinimedeiros13.png" width="100px;" alt="Profile"/><br/>
+        <sub><b>Vinícius Medeiros</b></sub>
+       </a><br/>
+       <a href="https://github.com/vinimedeiros13" title="Code">🕵🏻‍♂️</a>
+      </td>
+  <tr>
+</table>
