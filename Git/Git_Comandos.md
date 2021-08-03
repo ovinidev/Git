@@ -1,6 +1,6 @@
 # **Comandos GIT**
 
-## **Clonando um repositório**
+### **Clonando um repositório**
 <br>
 
 `$ git clone (link)`
