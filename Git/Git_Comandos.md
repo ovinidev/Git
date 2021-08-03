@@ -24,9 +24,9 @@
 
 #### Adicionando usuários GitHub no PC:
 
-`$ git config --global user.name "Vini Medeiros"`
+`$ git config --global user.name vinimedeiros13`
 
-`$ git config --global user.email vinimedeiros@gmail`
+`$ git config --global user.email vinimedeiros7@outlook.com`
 
 #### Ver em qual branch você está:
 
@@ -47,20 +47,3 @@
 `$ git diff`
 
 <br>
-
-## **Clonando um repositório**
-<br>
-
-`$ git clone (link)`
-
-`$ cd (local)`
-
-`$ git init`
-
-`$ git remote origin (link)`
-
-`$ git add .`
-
-`$ git commit -m "msg"`
-
-`$ git push origin main`
