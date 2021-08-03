@@ -62,7 +62,7 @@
 `$ tail -f (arquivo)` 
 <hr>
 
-#### exibir o manual de algum comando:
+#### Exibir o manual de algum comando:
 `$ man (comando)`
 <hr>
 
