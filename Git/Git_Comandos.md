@@ -47,3 +47,21 @@
 `$ git diff`
 
 <br>
+
+#### Criar novas branchs ou alternar entre elas:
+
+`git checkout <branch-name>`
+
+<br>
+
+#### Resetar todo o código de volta ao ultimo commit
+
+`git reset`
+
+<br>
+
+#### Mostrar informações sobre qualquer objeto git
+
+`git show`
+
+<br>
