@@ -10,8 +10,8 @@ Passo 3:
 
 Fazer as alterações padrões
 
-$ git add.
-$ git commit -m "atualizando..."
+$ git add. <br>
+$ git commit -m "atualizando..." <br>
 $ git push origin nome
 
 Passo 4:
