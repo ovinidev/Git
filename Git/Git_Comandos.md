@@ -28,6 +28,11 @@
 
 `$ git config --global user.email vinimedeiros7@outlook.com`
 
+#### Visualizar o histórico de alterações
+ 
+`$ git log`
+
+
 #### Ver em qual branch você está:
 
 `$ git status`
