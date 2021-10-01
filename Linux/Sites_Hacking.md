@@ -24,3 +24,7 @@ https://tryhackme.com
 #### ManaSD
 
 https://manasd.com.br
+
+#### Hackaday
+
+https://hackaday.com/
