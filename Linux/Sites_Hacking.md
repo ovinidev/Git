@@ -28,3 +28,7 @@ https://manasd.com.br
 #### Hackaday
 
 https://hackaday.com/
+
+#### Pffensive Security
+
+https://www.offensive-security.com/
