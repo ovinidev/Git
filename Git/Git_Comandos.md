@@ -22,11 +22,17 @@
 ### Alguns comandos essenciais:
 <br>
 
-#### Adicionando usuários GitHub no PC:
+#### Configurando usuário global no git:
 
 `$ git config --global user.name vinimedeiros13`
 
 `$ git config --global user.email vinimedeiros7@outlook.com`
+
+#### Configurando usuário local (apenas no repositório escolhido) do git:
+
+`$ git config --local user.name vinimedeiros13`
+
+`$ git config --local user.email vinimedeiros7@outlook.com`
 
 #### Visualizar o histórico de alterações
  
